@@ -1,0 +1,7 @@
+table{
+    border-bottom: 1px solid grey;
+}
+td{
+    width: 40%;
+    padding: 10px 20px;
+}

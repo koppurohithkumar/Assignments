@@ -1,0 +1,46 @@
+.App {
+ 
+  gap: 10px;
+  padding: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 40%;
+  
+}
+th{
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid grey;
+}
+
+
+td {
+ 
+  text-align: left;
+  padding: 8px;
+  border-bottom: 0.5px solid brown;
+ 
+}
+
+
+form {
+  
+  gap: 5px;
+}
+
+form td:last-child {
+  
+  justify-content: space-evenly;
+}
+
+button{
+  background: #016ABC;
+  color: #fff;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #eee;
+  text-shadow: none;
+}
+

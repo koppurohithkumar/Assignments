@@ -1,0 +1,10 @@
+p{
+    border:0.5px solid orange;
+    display: inline;
+}
+div{
+    border-width: 5px;
+    border-style: dotted;
+    border-color: green;
+    display: inline;
+}

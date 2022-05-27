@@ -1,0 +1,22 @@
+ul{
+    position: relative;
+    display: inline;
+}
+li{
+    display: inline;
+    padding: 20px 40px;
+    background-color: rgb(51, 51, 187);
+    top: 20px;  
+    
+}
+.complete{
+    text-align: center;
+    margin: 20px;
+}
+.Display{
+    padding: 50px;
+}
+li:focus-within{
+    background-color: rgb(230, 119, 137);
+    color: white;
+}
